@@ -12,15 +12,11 @@ Trinity Guide Mobile App (Status: Ongoing) — An unofficial Android app to help
 
 Trinity CS FAQ Chatbot (Status: Planned/In Progress) — A Python-based chatbot that answers common questions about Trinity’s CS/Engineering department.
 
-Trinity Campus AR Demo (Status: Concept) — A prototype augmented-reality map for Trinity’s campus, intended to enhance orientation for incoming students.
-
-Turkey Education Data Analysis (Status: In Progress) — A data science mini-project analyzing educational equity in Turkey, demonstrating analytical skills and social awareness.
 
 Repository Structure
 /Trinity-Project  
 ├─ Trinity-Guide-App/  
 ├─ Trinity-CS-Chatbot/  
-├─ Trinity-AR-Demo/  
 └─ Trinity-Project.pdf  
 
 How to view
