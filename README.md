@@ -37,6 +37,11 @@ If admitted, I plan to add:
 
 📱 Screenshots
 <p align="center"> <img src="Screenshot_20251115_182803_Trinity Guide.jpg" width="30%" /> <img src="cbfec752-ac3f-42db-8946-9aef8cd79e92.jpg" width="30%" /> <img src="Screenshot_20251115_182759_Trinity Guide.jpg" width="30%" /> </p>
+
+📱 Trinity Guide App — Download APK  
+🔗 (https://drive.google.com/file/d/1lPbPVRZjVqakuVmJPrz5oDtPIUx2L1Oh/view?usp=sharing)
+
+
 2. Trinity AI FAQ Chatbot
 
 Status: Completed
