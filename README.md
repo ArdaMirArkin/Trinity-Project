@@ -36,6 +36,7 @@ The app will also include, if admitted:
 ✔ Parent notification system (with permission)
 
 📸 Screenshots included above.
+![App Screenshot](./Screenshot_20251115_182750_Trinity Guide.jpg)
 
 2. Trinity AI FAQ Chatbot
 
