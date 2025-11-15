@@ -21,7 +21,6 @@ Repository Structure
 ├─ Trinity-Guide-App/  
 ├─ Trinity-CS-Chatbot/  
 ├─ Trinity-AR-Demo/  
-├─ Turkey-Education-Data/  
 └─ Trinity-Project.pdf  
 
 How to view
