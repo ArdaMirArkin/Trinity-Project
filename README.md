@@ -65,7 +65,7 @@ Integrate academic deadlines + events into AR markers
 
 This project is planned as a passion-driven learning initiative if I become a Bantam.
 <p align="center">
-  <img src="asdasd.png" width="350">
+  <img src="asdasd.png" width="1000">
   </p>
 
 📂 Repository Structure
