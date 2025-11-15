@@ -34,9 +34,9 @@ The app will also include, if admitted:
 ✔ Alerts for grades, deadlines, appointments
 
 ✔ Parent notification system (with permission)
+![Uploading Screenshot_20251115_182803_Trinity Guide.jpg…]()
 
 📸 Screenshots included above.
-![App Screenshot](./Screenshot_20251115_182750_Trinity Guide.jpg)
 
 2. Trinity AI FAQ Chatbot
 
