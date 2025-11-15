@@ -34,11 +34,12 @@ The app will also include, if admitted:
 ✔ Alerts for grades, deadlines, appointments
 
 ✔ Parent notification system (with permission)
+<p align="center">
+  <img src="Screenshot_20251115_182750_Trinity Guide.jpg" width="260">
+  <img src="Screenshot_20251115_182730_Trinity_Guide.jpg" width="260">
+  <img src="Screenshot_20251115_182803_Trinity_Guide.jpg" width="260">
+</p>
 
-![Screenshot_20251115_182803_Trinity Guide](https://github.com/user-attachments/assets/fd105318-b8e2-4445-937f-a54caaf8e5bf)
-![Screenshot_20251115_182759_Trinity Guide](https://github.com/user-attachments/assets/f7139f6d-4708-4f9a-b1e2-14d1737e3a0d)
-![Screenshot_20251115_182753_Trinity Guide](https://github.com/user-attachments/assets/ced0cad8-f789-40a6-9886-caa78db8b961)
-![Screenshot_20251115_182750_Trinity Guide](https://github.com/user-attachments/assets/b571c875-156d-4ec9-b1e8-9555542926c3)
 
 
 📸 Screenshots included above.
