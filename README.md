@@ -36,8 +36,8 @@ The app will also include, if admitted:
 ✔ Parent notification system (with permission)
 <p align="center">
   <img src="Screenshot_20251115_182750_Trinity Guide.jpg" width="260">
-  <img src="Screenshot_20251115_182730_Trinity_Guide.jpg" width="260">
-  <img src="Screenshot_20251115_182803_Trinity_Guide.jpg" width="260">
+  <img src="Screenshot_20251115_182759_Trinity Guide.jpg" width="260">
+  <img src="cbfec752-ac3f-42db-8946-9aef8cd79e92.jpg" width="260">
 </p>
 
 
