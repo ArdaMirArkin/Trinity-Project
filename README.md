@@ -1,9 +1,9 @@
-Trinity Project — by Arda Mir Arkin
-Early Decision Applicant — Trinity College (Fall 2026)
+🎓 Trinity Project — Technical Portfolio
+Arda Mir Arkin — Early Decision Applicant (Trinity College, Fall 2026)
 📘 Overview
 
-This repository showcases the technical projects I developed specifically for my Early Decision application to Trinity College.
-My goal is to demonstrate initiative, creativity, and engineering ability as a prospective Bantam interested in Computer Science and Engineering.
+This repository presents the technical projects I developed specifically for my Early Decision application to Trinity College.
+My intention is to demonstrate initiative, creativity, and engineering ability as a prospective Bantam interested in Computer Science and Engineering.
 
 I believe in showing, not telling.
 
@@ -11,7 +11,7 @@ I believe in showing, not telling.
 1. Trinity Guide Mobile App (Android)
 
 Status: Ongoing
-A student-focused mobile app designed to help prospective Trinity students navigate:
+A student-focused mobile application designed to help prospective Trinity students understand core aspects of campus life, including:
 
 Campus life
 
@@ -25,56 +25,51 @@ Important deadlines
 
 Campus safety information
 
-The app will also include, if admitted:
+If admitted, I plan to add:
 
-✔ Real-time campus map
+✔ Real-time interactive campus map
 
 ✔ Role-based login (Student / Faculty / Parent)
 
-✔ Alerts for grades, deadlines, appointments
+✔ Alerts for deadlines, grades, appointments
 
 ✔ Parent notification system (with permission)
-<p float="left">
-  <img src="Screenshot_20251115_182803_Trinity Guide.jpg" width="30%" />
-  <img src="cbfec752-ac3f-42db-8946-9aef8cd79e92.jpg" width="30%" />
-  <img src="Screenshot_20251115_182759_Trinity Guide.jpg" width="30%" />
-</p>
 
-
-
+📱 Screenshots
+<p align="center"> <img src="Screenshot_20251115_182803_Trinity Guide.jpg" width="30%" /> <img src="cbfec752-ac3f-42db-8946-9aef8cd79e92.jpg" width="30%" /> <img src="Screenshot_20251115_182759_Trinity Guide.jpg" width="30%" /> </p>
 2. Trinity AI FAQ Chatbot
 
 Status: Completed
-A Python + SentenceTransformer chatbot that answers common questions about Trinity.
-Hosted publicly on HuggingFace Spaces.
+A Python + SentenceTransformer-powered chatbot that answers common questions about Trinity College.
+Hosted publicly using HuggingFace Spaces.
 
 🔗 Live Demo: https://huggingface.co/spaces/MirArkin/Trinity-Chatbot
 
-🧠 Purpose: Reduce repetitive workload for admissions staff + provide instant responses to common questions.
+Purpose
 
+Reduce repetitive workload for admissions staff
+
+Provide instant responses to frequently asked questions
+
+Offer a reliable resource for international and domestic applicants
+
+🖼 Preview
+<p align="center"> <img src="asdasd.png" width="70%" /> </p>
 3. AR Campus Visualization (Future Goal if Admitted)
 
-An augmented-reality visualizer that will allow future Trinity students to:
+A passion-driven augmented-reality project I hope to develop if I become a Bantam.
 
-View campus buildings in 3D
+The AR visualizer will allow Trinity students to:
 
-See academic departments
+Explore campus buildings in 3D
+
+View academic departments
 
 Walk through campus virtually
 
-Integrate academic deadlines + events into AR markers
+See deadlines + events through AR markers
 
-
-This project is planned as a passion-driven learning initiative if I become a Bantam.
-<p align="center">
-  <img src="asdasd.png" width="70%" />
-</p>
-
-
-
-
-
-
+This would combine software engineering, 3D modeling, and campus engagement into an immersive Trinity-focused experience.
 
 📂 Repository Structure
 /Trinity-Project
@@ -85,7 +80,8 @@ This project is planned as a passion-driven learning initiative if I become a Ba
 📄 Documentation
 
 All detailed explanations, screenshots, and future plans are included in:
-📘 Trinity-Project.pdf (uploaded in this repo)
+
+📘 Trinity-Project.pdf (included in this repository)
 
 📬 Contact
 
