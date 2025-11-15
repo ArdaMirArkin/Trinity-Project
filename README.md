@@ -63,6 +63,8 @@ Walk through campus virtually
 
 Integrate academic deadlines + events into AR markers
 
+Link: https://huggingface.co/spaces/MirArkin/Trinity-Chatbot
+
 This project is planned as a passion-driven learning initiative if I become a Bantam.
 <p align="center">
   <img src="asdasd.png" width="1000">
